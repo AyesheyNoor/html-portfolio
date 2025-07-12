@@ -1,2 +1,2 @@
 # html-portfolio
-Author: Kulsoom Khan
+Author: Kulsoom Khan(tech company)
